@@ -76,8 +76,6 @@ var ReactSkycons = function (_Component) {
       var props = {};
 
       var defaultStyle = {
-        width: '100%',
-        height: '100%'
       };
 
       for (var prop in this.props) {
